@@ -1,0 +1,25 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created by Bruno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezziemaven/keiko-corp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezziemaven/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/rezziemaven/keiko-corp#readme",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-uncss": "^0.10.1"
+  }
+}
